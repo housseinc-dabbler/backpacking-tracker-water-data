@@ -1,0 +1,1431 @@
+{
+  "version": "1.0",
+  "regions": [
+    {
+      "id": "ontario-water",
+      "name": "Ontario",
+      "coverage": {
+        "type": "provincial",
+        "region": "ontario"
+      },
+      "bounds": {
+        "minLat": 41.6765,
+        "maxLat": 56.859,
+        "minLon": -95.1566,
+        "maxLon": -74.3206
+      },
+      "features": {
+        "lakes": 10208,
+        "rivers": 0,
+        "streams": 2161400,
+        "canals": 0
+      },
+      "fileSize": 27893760,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/ontario-water.mbtiles",
+      "checksum": "sha256:482a79b5a10f76c02bbcb555a18c6fcc9e203bd5f9acd7a94d88a587bad168bc"
+    },
+    {
+      "id": "british-columbia-water",
+      "name": "British Columbia",
+      "coverage": {
+        "type": "provincial",
+        "region": "british columbia"
+      },
+      "bounds": {
+        "minLat": 48.3088,
+        "maxLat": 60.0,
+        "minLon": -139.0489,
+        "maxLon": -114.0334
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 4104219,
+        "canals": 0
+      },
+      "fileSize": 21282816,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/british-columbia-water.mbtiles",
+      "checksum": "sha256:cd1ffa23500d54dc0d6a5876e1527d1daedece5bfaf88d78ade7b33fff89ae53"
+    },
+    {
+      "id": "quebec-water",
+      "name": "Quebec",
+      "coverage": {
+        "type": "provincial",
+        "region": "quebec"
+      },
+      "bounds": {
+        "minLat": 45.0,
+        "maxLat": 62.5833,
+        "minLon": -79.7647,
+        "maxLon": -57.1035
+      },
+      "features": {
+        "lakes": 391,
+        "rivers": 0,
+        "streams": 5110702,
+        "canals": 0
+      },
+      "fileSize": 27545600,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/quebec-water.mbtiles",
+      "checksum": "sha256:92c677a6d005cb087ec5acbdf126a970e3d09f9ce832149caabb303a61837dad"
+    },
+    {
+      "id": "alberta-water",
+      "name": "Alberta",
+      "coverage": {
+        "type": "provincial",
+        "region": "alberta"
+      },
+      "bounds": {
+        "minLat": 49.0,
+        "maxLat": 60.0,
+        "minLon": -120.0,
+        "maxLon": -110.0
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 664257,
+        "canals": 0
+      },
+      "fileSize": 25485312,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/alberta-water.mbtiles",
+      "checksum": "sha256:893194b3b98d319aa13dbc2bec2e419902e75fa52e8839175da835368a71c39f"
+    },
+    {
+      "id": "manitoba-water",
+      "name": "Manitoba",
+      "coverage": {
+        "type": "provincial",
+        "region": "manitoba"
+      },
+      "bounds": {
+        "minLat": 49.0,
+        "maxLat": 60.0,
+        "minLon": -102.0,
+        "maxLon": -88.9056
+      },
+      "features": {
+        "lakes": 25,
+        "rivers": 0,
+        "streams": 812065,
+        "canals": 0
+      },
+      "fileSize": 18792448,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/manitoba-water.mbtiles",
+      "checksum": "sha256:64568fc10d571031c9962a7b1b16bcf0fc19804ca03aef841d5d0b994aa4482b"
+    },
+    {
+      "id": "saskatchewan-water",
+      "name": "Saskatchewan",
+      "coverage": {
+        "type": "provincial",
+        "region": "saskatchewan"
+      },
+      "bounds": {
+        "minLat": 49.0,
+        "maxLat": 60.0,
+        "minLon": -110.0,
+        "maxLon": -101.3625
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 298667,
+        "canals": 0
+      },
+      "fileSize": 21151744,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/saskatchewan-water.mbtiles",
+      "checksum": "sha256:e1c1d745857f6188f293fb7c884dd59abb2784fe986c07f8378f589406ee0ec2"
+    },
+    {
+      "id": "nova-scotia-water",
+      "name": "Nova Scotia",
+      "coverage": {
+        "type": "provincial",
+        "region": "nova scotia"
+      },
+      "bounds": {
+        "minLat": 43.3747,
+        "maxLat": 47.035,
+        "minLon": -66.3277,
+        "maxLon": -59.6787
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 153773,
+        "canals": 0
+      },
+      "fileSize": 9519104,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nova-scotia-water.mbtiles",
+      "checksum": "sha256:af8a3cb7a9a7a8b1be343613f127b6796ba3e4a7bf4fa16aa45f1f3328936134"
+    },
+    {
+      "id": "new-brunswick-water",
+      "name": "New Brunswick",
+      "coverage": {
+        "type": "provincial",
+        "region": "new brunswick"
+      },
+      "bounds": {
+        "minLat": 44.6011,
+        "maxLat": 48.0744,
+        "minLon": -69.0647,
+        "maxLon": -63.7729
+      },
+      "features": {
+        "lakes": 128,
+        "rivers": 0,
+        "streams": 115267,
+        "canals": 0
+      },
+      "fileSize": 9322496,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-brunswick-water.mbtiles",
+      "checksum": "sha256:8902b09c448e82fd49ad5daa25b20c65ee7402657b3d6cab78680857a9765bbd"
+    },
+    {
+      "id": "newfoundland-water",
+      "name": "Newfoundland and Labrador",
+      "coverage": {
+        "type": "provincial",
+        "region": "newfoundland and labrador"
+      },
+      "bounds": {
+        "minLat": 46.6196,
+        "maxLat": 60.3717,
+        "minLon": -67.8046,
+        "maxLon": -52.6191
+      },
+      "features": {
+        "lakes": 2,
+        "rivers": 0,
+        "streams": 1566138,
+        "canals": 0
+      },
+      "fileSize": 16134144,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/newfoundland-water.mbtiles",
+      "checksum": "sha256:13ee95f9f0a2c22f176304805311a0ebb752b9712f0c036fd87f583f4ac265a2"
+    },
+    {
+      "id": "pei-water",
+      "name": "Prince Edward Island",
+      "coverage": {
+        "type": "provincial",
+        "region": "prince edward island"
+      },
+      "bounds": {
+        "minLat": 45.9564,
+        "maxLat": 47.0588,
+        "minLon": -64.4235,
+        "maxLon": -61.9767
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 4884,
+        "canals": 0
+      },
+      "fileSize": 2289664,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/pei-water.mbtiles",
+      "checksum": "sha256:82722a7fb27718de753dab3eba05effd62dd000c3930ec6b143a2e0a44fb6ef7"
+    },
+    {
+      "id": "yukon-water",
+      "name": "Yukon",
+      "coverage": {
+        "type": "territorial",
+        "region": "yukon"
+      },
+      "bounds": {
+        "minLat": 60.0,
+        "maxLat": 69.6503,
+        "minLon": -141.0026,
+        "maxLon": -123.8179
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 926022,
+        "canals": 0
+      },
+      "fileSize": 22474752,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/yukon-water.mbtiles",
+      "checksum": "sha256:9cfe689e593494e6a6acee007c106a42fe0f6f6531f3f77f397465955f909188"
+    },
+    {
+      "id": "nwt-water",
+      "name": "Northwest Territories",
+      "coverage": {
+        "type": "territorial",
+        "region": "northwest territories"
+      },
+      "bounds": {
+        "minLat": 60.0,
+        "maxLat": 78.7583,
+        "minLon": -136.4715,
+        "maxLon": -101.9998
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 3137390,
+        "canals": 0
+      },
+      "fileSize": 26365952,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nwt-water.mbtiles",
+      "checksum": "sha256:72086b7a625f2e17771b1d398a2c9d7472abb054f877fe721fe192802c4f9e96"
+    },
+    {
+      "id": "nunavut-water",
+      "name": "Nunavut",
+      "coverage": {
+        "type": "territorial",
+        "region": "nunavut"
+      },
+      "bounds": {
+        "minLat": 51.3919,
+        "maxLat": 83.1257,
+        "minLon": -120.0,
+        "maxLon": -61.1123
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 8777730,
+        "canals": 0
+      },
+      "fileSize": 15413248,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nunavut-water.mbtiles",
+      "checksum": "sha256:dbfb6b7215f1e777427f9c858da193c809cfcbc6cd9b4761bf6ae2da38aae8b8"
+    },
+    {
+      "id": "california-water",
+      "name": "California",
+      "coverage": {
+        "type": "state",
+        "region": "california"
+      },
+      "bounds": {
+        "minLat": 32.5343,
+        "maxLat": 42.0095,
+        "minLon": -124.4096,
+        "maxLon": -114.1312
+      },
+      "features": {
+        "lakes": 3968,
+        "rivers": 0,
+        "streams": 114710,
+        "canals": 0
+      },
+      "fileSize": 27095040,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/california-water.mbtiles",
+      "checksum": "sha256:f6ccb64288b9661ab72dbd13d2b43d12b7411e39ec8056cfe3a15079c42ad30d"
+    },
+    {
+      "id": "washington-water",
+      "name": "Washington",
+      "coverage": {
+        "type": "state",
+        "region": "washington"
+      },
+      "bounds": {
+        "minLat": 45.5435,
+        "maxLat": 49.0025,
+        "minLon": -124.7625,
+        "maxLon": -116.9159
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 155574,
+        "canals": 0
+      },
+      "fileSize": 10403840,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/washington-water.mbtiles",
+      "checksum": "sha256:d8e846cc156e21f589f324697090ec935ee981961c7d669a80702f0219fdb562"
+    },
+    {
+      "id": "oregon-water",
+      "name": "Oregon",
+      "coverage": {
+        "type": "state",
+        "region": "oregon"
+      },
+      "bounds": {
+        "minLat": 41.9918,
+        "maxLat": 46.2991,
+        "minLon": -124.5661,
+        "maxLon": -116.4634
+      },
+      "features": {
+        "lakes": 371,
+        "rivers": 0,
+        "streams": 10300,
+        "canals": 0
+      },
+      "fileSize": 4415488,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/oregon-water.mbtiles",
+      "checksum": "sha256:1926f1cbe32ec53bdc4422c29d017f43bb3f4461b80e1198980aac7b82c909e5"
+    },
+    {
+      "id": "alaska-water",
+      "name": "Alaska",
+      "coverage": {
+        "type": "state",
+        "region": "alaska"
+      },
+      "bounds": {
+        "minLat": 51.2097,
+        "maxLat": 71.5388,
+        "minLon": -179.1506,
+        "maxLon": -129.9795
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 1240573,
+        "canals": 0
+      },
+      "fileSize": 25628672,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/alaska-water.mbtiles",
+      "checksum": "sha256:31b334513a3512903b3956c27978126e6c8e0c77655de26b9f962b16ba566698"
+    },
+    {
+      "id": "nevada-water",
+      "name": "Nevada",
+      "coverage": {
+        "type": "state",
+        "region": "nevada"
+      },
+      "bounds": {
+        "minLat": 35.0018,
+        "maxLat": 42.0022,
+        "minLon": -120.0065,
+        "maxLon": -114.0396
+      },
+      "features": {
+        "lakes": 777,
+        "rivers": 0,
+        "streams": 36348,
+        "canals": 0
+      },
+      "fileSize": 13668352,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nevada-water.mbtiles",
+      "checksum": "sha256:b845e7212fb818cf3a522f2de511eec7d0649a44bcf36f7a4b92af54cf895e9c"
+    },
+    {
+      "id": "idaho-water",
+      "name": "Idaho",
+      "coverage": {
+        "type": "state",
+        "region": "idaho"
+      },
+      "bounds": {
+        "minLat": 42.0,
+        "maxLat": 49.0011,
+        "minLon": -117.2433,
+        "maxLon": -111.0435
+      },
+      "features": {
+        "lakes": 150,
+        "rivers": 0,
+        "streams": 51024,
+        "canals": 0
+      },
+      "fileSize": 16486400,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/idaho-water.mbtiles",
+      "checksum": "sha256:554f509cb13565a41af19cf75411e976d77b97edf2f7987ec946f5d12dfe5ddc"
+    },
+    {
+      "id": "montana-water",
+      "name": "Montana",
+      "coverage": {
+        "type": "state",
+        "region": "montana"
+      },
+      "bounds": {
+        "minLat": 44.3582,
+        "maxLat": 49.0011,
+        "minLon": -116.0489,
+        "maxLon": -104.0395
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 78355,
+        "canals": 0
+      },
+      "fileSize": 21979136,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/montana-water.mbtiles",
+      "checksum": "sha256:17a26b205260d73150ba56960d8b6b3cea7b4b1400537daf92a374afa4f469e2"
+    },
+    {
+      "id": "wyoming-water",
+      "name": "Wyoming",
+      "coverage": {
+        "type": "state",
+        "region": "wyoming"
+      },
+      "bounds": {
+        "minLat": 41.0,
+        "maxLat": 45.0058,
+        "minLon": -111.0545,
+        "maxLon": -104.052
+      },
+      "features": {
+        "lakes": 6,
+        "rivers": 0,
+        "streams": 9670,
+        "canals": 0
+      },
+      "fileSize": 6893568,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/wyoming-water.mbtiles",
+      "checksum": "sha256:f0a666afb816324109172e468c00427a28282658b90df58e7db6f1d56adf4be3"
+    },
+    {
+      "id": "utah-water",
+      "name": "Utah",
+      "coverage": {
+        "type": "state",
+        "region": "utah"
+      },
+      "bounds": {
+        "minLat": 37.0,
+        "maxLat": 42.0013,
+        "minLon": -114.0529,
+        "maxLon": -109.041
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 5000,
+        "canals": 0
+      },
+      "fileSize": 3219456,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/utah-water.mbtiles",
+      "checksum": "sha256:6302c428c55aeb9a330195d18ec3f2909e37e8c78c24e690f14224459ab9a970"
+    },
+    {
+      "id": "colorado-water",
+      "name": "Colorado",
+      "coverage": {
+        "type": "state",
+        "region": "colorado"
+      },
+      "bounds": {
+        "minLat": 36.993,
+        "maxLat": 41.003,
+        "minLon": -109.06,
+        "maxLon": -102.0417
+      },
+      "features": {
+        "lakes": 17,
+        "rivers": 0,
+        "streams": 18937,
+        "canals": 0
+      },
+      "fileSize": 10547200,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/colorado-water.mbtiles",
+      "checksum": "sha256:fdf361d3665e61d1c1b9cf71260fc473aee92c5a7bc30b6d7f6eb9b5c9be170c"
+    },
+    {
+      "id": "arizona-water",
+      "name": "Arizona",
+      "coverage": {
+        "type": "state",
+        "region": "arizona"
+      },
+      "bounds": {
+        "minLat": 31.3322,
+        "maxLat": 37.0043,
+        "minLon": -114.8165,
+        "maxLon": -109.0452
+      },
+      "features": {
+        "lakes": 57,
+        "rivers": 0,
+        "streams": 12824,
+        "canals": 0
+      },
+      "fileSize": 8200192,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/arizona-water.mbtiles",
+      "checksum": "sha256:5200493324056a329ea0c9f6ab9654e8ec4100b8935d5f4679d8683c72ea57f2"
+    },
+    {
+      "id": "new-mexico-water",
+      "name": "New Mexico",
+      "coverage": {
+        "type": "state",
+        "region": "new mexico"
+      },
+      "bounds": {
+        "minLat": 31.3328,
+        "maxLat": 37.0001,
+        "minLon": -109.0503,
+        "maxLon": -103.002
+      },
+      "features": {
+        "lakes": 669,
+        "rivers": 0,
+        "streams": 18279,
+        "canals": 0
+      },
+      "fileSize": 10145792,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-mexico-water.mbtiles",
+      "checksum": "sha256:9c1eb62c1f306df3b804ead057c3adebc4e236839f22c5e0bcefe169210378eb"
+    },
+    {
+      "id": "north-dakota-water",
+      "name": "North Dakota",
+      "coverage": {
+        "type": "state",
+        "region": "north dakota"
+      },
+      "bounds": {
+        "minLat": 45.935,
+        "maxLat": 49.0011,
+        "minLon": -104.0489,
+        "maxLon": -96.5544
+      },
+      "features": {
+        "lakes": 130,
+        "rivers": 0,
+        "streams": 11654,
+        "canals": 0
+      },
+      "fileSize": 6250496,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/north-dakota-water.mbtiles",
+      "checksum": "sha256:a44851c94e98ddd6442c22b39f8050a96c272fc8a7a83b60c4e58f51b5bbdb6e"
+    },
+    {
+      "id": "south-dakota-water",
+      "name": "South Dakota",
+      "coverage": {
+        "type": "state",
+        "region": "south dakota"
+      },
+      "bounds": {
+        "minLat": 42.4798,
+        "maxLat": 45.9454,
+        "minLon": -104.0578,
+        "maxLon": -96.4365
+      },
+      "features": {
+        "lakes": 489,
+        "rivers": 0,
+        "streams": 3144,
+        "canals": 0
+      },
+      "fileSize": 3178496,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/south-dakota-water.mbtiles",
+      "checksum": "sha256:54e3c9ff52bbb69f85cd894feacf526c88b6d5629011ab16dd7b5921f17f8274"
+    },
+    {
+      "id": "nebraska-water",
+      "name": "Nebraska",
+      "coverage": {
+        "type": "state",
+        "region": "nebraska"
+      },
+      "bounds": {
+        "minLat": 40.0,
+        "maxLat": 43.0017,
+        "minLon": -104.0533,
+        "maxLon": -95.308
+      },
+      "features": {
+        "lakes": 575,
+        "rivers": 0,
+        "streams": 5778,
+        "canals": 0
+      },
+      "fileSize": 4255744,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nebraska-water.mbtiles",
+      "checksum": "sha256:c8c4d7192a7f21161cee0a55110b980dcef254d125247562b208573750cdedbf"
+    },
+    {
+      "id": "kansas-water",
+      "name": "Kansas",
+      "coverage": {
+        "type": "state",
+        "region": "kansas"
+      },
+      "bounds": {
+        "minLat": 36.9931,
+        "maxLat": 40.0031,
+        "minLon": -102.0517,
+        "maxLon": -94.5889
+      },
+      "features": {
+        "lakes": 100,
+        "rivers": 0,
+        "streams": 1939,
+        "canals": 0
+      },
+      "fileSize": 1454080,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/kansas-water.mbtiles",
+      "checksum": "sha256:31438bc2438b81799927869705950575e9540287695acf00489805b45709fc87"
+    },
+    {
+      "id": "minnesota-water",
+      "name": "Minnesota",
+      "coverage": {
+        "type": "state",
+        "region": "minnesota"
+      },
+      "bounds": {
+        "minLat": 43.5008,
+        "maxLat": 49.3845,
+        "minLon": -97.2392,
+        "maxLon": -89.4833
+      },
+      "features": {
+        "lakes": 4850,
+        "rivers": 0,
+        "streams": 94592,
+        "canals": 0
+      },
+      "fileSize": 24014848,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/minnesota-water.mbtiles",
+      "checksum": "sha256:a4d9d730389010bcc23db7074dc130b557993b0beaef6b4895ebb5c3df27be8b"
+    },
+    {
+      "id": "wisconsin-water",
+      "name": "Wisconsin",
+      "coverage": {
+        "type": "state",
+        "region": "wisconsin"
+      },
+      "bounds": {
+        "minLat": 42.4919,
+        "maxLat": 47.0802,
+        "minLon": -92.8894,
+        "maxLon": -86.2497
+      },
+      "features": {
+        "lakes": 5492,
+        "rivers": 0,
+        "streams": 961,
+        "canals": 0
+      },
+      "fileSize": 5062656,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/wisconsin-water.mbtiles",
+      "checksum": "sha256:3a2c608cdf26b7ad2181c6c0e4103781b97817d1b27f1af63f395d1469fa373f"
+    },
+    {
+      "id": "iowa-water",
+      "name": "Iowa",
+      "coverage": {
+        "type": "state",
+        "region": "iowa"
+      },
+      "bounds": {
+        "minLat": 40.3755,
+        "maxLat": 43.5011,
+        "minLon": -96.6397,
+        "maxLon": -90.14
+      },
+      "features": {
+        "lakes": 3526,
+        "rivers": 0,
+        "streams": 1099,
+        "canals": 0
+      },
+      "fileSize": 4222976,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/iowa-water.mbtiles",
+      "checksum": "sha256:91c782f16f255ff936cf39ce54c2ed0b87cf1053fc24e948fd5f5d7b071342a2"
+    },
+    {
+      "id": "missouri-water",
+      "name": "Missouri",
+      "coverage": {
+        "type": "state",
+        "region": "missouri"
+      },
+      "bounds": {
+        "minLat": 35.9957,
+        "maxLat": 40.6136,
+        "minLon": -95.7742,
+        "maxLon": -89.0988
+      },
+      "features": {
+        "lakes": 1141,
+        "rivers": 0,
+        "streams": 6513,
+        "canals": 0
+      },
+      "fileSize": 4792320,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/missouri-water.mbtiles",
+      "checksum": "sha256:611a9493613e19f0808edeb96a66583f038332ac40f4fc8cd1be80f4bd49d94e"
+    },
+    {
+      "id": "michigan-water",
+      "name": "Michigan",
+      "coverage": {
+        "type": "state",
+        "region": "michigan"
+      },
+      "bounds": {
+        "minLat": 41.696,
+        "maxLat": 48.2388,
+        "minLon": -90.4184,
+        "maxLon": -82.4127
+      },
+      "features": {
+        "lakes": 4772,
+        "rivers": 0,
+        "streams": 81668,
+        "canals": 0
+      },
+      "fileSize": 19177472,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/michigan-water.mbtiles",
+      "checksum": "sha256:6096e4792b1ac5b172847e0a9e8b5e7fe9ccfa56966d90685bd6ec49b4fa1308"
+    },
+    {
+      "id": "illinois-water",
+      "name": "Illinois",
+      "coverage": {
+        "type": "state",
+        "region": "illinois"
+      },
+      "bounds": {
+        "minLat": 36.9703,
+        "maxLat": 42.5083,
+        "minLon": -91.513,
+        "maxLon": -87.0199
+      },
+      "features": {
+        "lakes": 2659,
+        "rivers": 0,
+        "streams": 3770,
+        "canals": 0
+      },
+      "fileSize": 4886528,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/illinois-water.mbtiles",
+      "checksum": "sha256:4e48bfb20907947d6466ad79cc2cae6959299c9c5d4ed67f51294dd491be2776"
+    },
+    {
+      "id": "indiana-water",
+      "name": "Indiana",
+      "coverage": {
+        "type": "state",
+        "region": "indiana"
+      },
+      "bounds": {
+        "minLat": 37.7719,
+        "maxLat": 41.7613,
+        "minLon": -88.0997,
+        "maxLon": -84.7844
+      },
+      "features": {
+        "lakes": 1108,
+        "rivers": 0,
+        "streams": 1760,
+        "canals": 0
+      },
+      "fileSize": 2310144,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/indiana-water.mbtiles",
+      "checksum": "sha256:ea46118ffcc29f69b263676a2d25a4040fd5ae3450d85f1a3ad8576f3bf109e8"
+    },
+    {
+      "id": "ohio-water",
+      "name": "Ohio",
+      "coverage": {
+        "type": "state",
+        "region": "ohio"
+      },
+      "bounds": {
+        "minLat": 38.4032,
+        "maxLat": 41.9773,
+        "minLon": -84.8203,
+        "maxLon": -80.519
+      },
+      "features": {
+        "lakes": 28,
+        "rivers": 0,
+        "streams": 1855,
+        "canals": 0
+      },
+      "fileSize": 1265664,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/ohio-water.mbtiles",
+      "checksum": "sha256:245ba6cdca1eaf98642450bc495c3efef694af0f637dd4427f7017fe86ad5cd3"
+    },
+    {
+      "id": "texas-water",
+      "name": "Texas",
+      "coverage": {
+        "type": "state",
+        "region": "texas"
+      },
+      "bounds": {
+        "minLat": 25.8371,
+        "maxLat": 36.5007,
+        "minLon": -106.6456,
+        "maxLon": -93.5083
+      },
+      "features": {
+        "lakes": 300,
+        "rivers": 0,
+        "streams": 103704,
+        "canals": 0
+      },
+      "fileSize": 20733952,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/texas-water.mbtiles",
+      "checksum": "sha256:751367b343e00c954971273807ab43e1f833c6f540300684e4f808bccfdc8a91"
+    },
+    {
+      "id": "oklahoma-water",
+      "name": "Oklahoma",
+      "coverage": {
+        "type": "state",
+        "region": "oklahoma"
+      },
+      "bounds": {
+        "minLat": 33.6195,
+        "maxLat": 37.0023,
+        "minLon": -103.0025,
+        "maxLon": -94.4312
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 43569,
+        "canals": 0
+      },
+      "fileSize": 8351744,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/oklahoma-water.mbtiles",
+      "checksum": "sha256:63d940ff3195adefb58a70d9fc2ba5658306d0307ff583dc310399db718ff7ff"
+    },
+    {
+      "id": "arkansas-water",
+      "name": "Arkansas",
+      "coverage": {
+        "type": "state",
+        "region": "arkansas"
+      },
+      "bounds": {
+        "minLat": 33.0041,
+        "maxLat": 36.4996,
+        "minLon": -94.6178,
+        "maxLon": -89.6449
+      },
+      "features": {
+        "lakes": 587,
+        "rivers": 0,
+        "streams": 16158,
+        "canals": 0
+      },
+      "fileSize": 7180288,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/arkansas-water.mbtiles",
+      "checksum": "sha256:80e6bf092687ae132d5fb2753e063485a15ce72d52fa67a40574b1cc62314b7c"
+    },
+    {
+      "id": "louisiana-water",
+      "name": "Louisiana",
+      "coverage": {
+        "type": "state",
+        "region": "louisiana"
+      },
+      "bounds": {
+        "minLat": 28.9255,
+        "maxLat": 33.0197,
+        "minLon": -94.043,
+        "maxLon": -88.8172
+      },
+      "features": {
+        "lakes": 1257,
+        "rivers": 0,
+        "streams": 13479,
+        "canals": 0
+      },
+      "fileSize": 6557696,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/louisiana-water.mbtiles",
+      "checksum": "sha256:a56d7980c52000d032ad5f9f6f83b82336fe838fce0c1227282a789fcf364cd5"
+    },
+    {
+      "id": "mississippi-water",
+      "name": "Mississippi",
+      "coverage": {
+        "type": "state",
+        "region": "mississippi"
+      },
+      "bounds": {
+        "minLat": 30.1734,
+        "maxLat": 34.9961,
+        "minLon": -91.655,
+        "maxLon": -88.0977
+      },
+      "features": {
+        "lakes": 2238,
+        "rivers": 0,
+        "streams": 5320,
+        "canals": 0
+      },
+      "fileSize": 5095424,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/mississippi-water.mbtiles",
+      "checksum": "sha256:54f159f0c75fc8b54c3b65af36ff7389239f27684629777430214fd0dfcca85b"
+    },
+    {
+      "id": "alabama-water",
+      "name": "Alabama",
+      "coverage": {
+        "type": "state",
+        "region": "alabama"
+      },
+      "bounds": {
+        "minLat": 30.2226,
+        "maxLat": 35.008,
+        "minLon": -88.4731,
+        "maxLon": -84.8882
+      },
+      "features": {
+        "lakes": 1089,
+        "rivers": 0,
+        "streams": 1275,
+        "canals": 0
+      },
+      "fileSize": 2138112,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/alabama-water.mbtiles",
+      "checksum": "sha256:bafeb27b486d97662e35f89da3ebe808ab86301225090287d557019ae423cdc2"
+    },
+    {
+      "id": "tennessee-water",
+      "name": "Tennessee",
+      "coverage": {
+        "type": "state",
+        "region": "tennessee"
+      },
+      "bounds": {
+        "minLat": 34.9829,
+        "maxLat": 36.6781,
+        "minLon": -90.3102,
+        "maxLon": -81.6469
+      },
+      "features": {
+        "lakes": 1265,
+        "rivers": 0,
+        "streams": 7425,
+        "canals": 0
+      },
+      "fileSize": 4276224,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/tennessee-water.mbtiles",
+      "checksum": "sha256:a9bed60c338dd05ffcf65e5bf88f0fc8c95708e638eabe94313fd48f18c79d04"
+    },
+    {
+      "id": "kentucky-water",
+      "name": "Kentucky",
+      "coverage": {
+        "type": "state",
+        "region": "kentucky"
+      },
+      "bounds": {
+        "minLat": 36.4972,
+        "maxLat": 39.1472,
+        "minLon": -89.5715,
+        "maxLon": -81.9645
+      },
+      "features": {
+        "lakes": 458,
+        "rivers": 0,
+        "streams": 6872,
+        "canals": 0
+      },
+      "fileSize": 4116480,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/kentucky-water.mbtiles",
+      "checksum": "sha256:19ce56511feb861d70b667983dbca7c043c8b864337488eb41278ed6dab9e9cd"
+    },
+    {
+      "id": "florida-water",
+      "name": "Florida",
+      "coverage": {
+        "type": "state",
+        "region": "florida"
+      },
+      "bounds": {
+        "minLat": 24.521,
+        "maxLat": 31.0009,
+        "minLon": -87.6349,
+        "maxLon": -79.9743
+      },
+      "features": {
+        "lakes": 144,
+        "rivers": 0,
+        "streams": 14536,
+        "canals": 0
+      },
+      "fileSize": 5918720,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/florida-water.mbtiles",
+      "checksum": "sha256:e873396eb9c9d4b7216b0fcac81d7ed8f5942689194d651e6309b3756a801eaa"
+    },
+    {
+      "id": "georgia-water",
+      "name": "Georgia",
+      "coverage": {
+        "type": "state",
+        "region": "georgia"
+      },
+      "bounds": {
+        "minLat": 30.3576,
+        "maxLat": 35.0008,
+        "minLon": -85.6052,
+        "maxLon": -80.7514
+      },
+      "features": {
+        "lakes": 1609,
+        "rivers": 0,
+        "streams": 2336,
+        "canals": 0
+      },
+      "fileSize": 2998272,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/georgia-water.mbtiles",
+      "checksum": "sha256:7ddcad5caad11d7d6e30f00d2af42bbb998175f82aa3274aa8cef90a3ce6ba0e"
+    },
+    {
+      "id": "south-carolina-water",
+      "name": "South Carolina",
+      "coverage": {
+        "type": "state",
+        "region": "south carolina"
+      },
+      "bounds": {
+        "minLat": 32.0346,
+        "maxLat": 35.2155,
+        "minLon": -83.3532,
+        "maxLon": -78.4991
+      },
+      "features": {
+        "lakes": 939,
+        "rivers": 0,
+        "streams": 3928,
+        "canals": 0
+      },
+      "fileSize": 2387968,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/south-carolina-water.mbtiles",
+      "checksum": "sha256:6b7512be51f9b554d38ef12a5e44606399b4cc044e2bbe785647b7f0cfe6e1c0"
+    },
+    {
+      "id": "north-carolina-water",
+      "name": "North Carolina",
+      "coverage": {
+        "type": "state",
+        "region": "north carolina"
+      },
+      "bounds": {
+        "minLat": 33.8406,
+        "maxLat": 36.5881,
+        "minLon": -84.3218,
+        "maxLon": -75.4001
+      },
+      "features": {
+        "lakes": 2490,
+        "rivers": 0,
+        "streams": 10528,
+        "canals": 0
+      },
+      "fileSize": 6807552,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/north-carolina-water.mbtiles",
+      "checksum": "sha256:efdf4d84463101fe921318647aad5aeb43618412a7cb5db586290ab859a33de2"
+    },
+    {
+      "id": "virginia-water",
+      "name": "Virginia",
+      "coverage": {
+        "type": "state",
+        "region": "virginia"
+      },
+      "bounds": {
+        "minLat": 36.5408,
+        "maxLat": 39.466,
+        "minLon": -83.6754,
+        "maxLon": -75.2424
+      },
+      "features": {
+        "lakes": 432,
+        "rivers": 0,
+        "streams": 11590,
+        "canals": 0
+      },
+      "fileSize": 4579328,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/virginia-water.mbtiles",
+      "checksum": "sha256:f800022d0c285807da22c04f043399b2ffbb410b190a73fd7e23f9a8da08285c"
+    },
+    {
+      "id": "west-virginia-water",
+      "name": "West Virginia",
+      "coverage": {
+        "type": "state",
+        "region": "west virginia"
+      },
+      "bounds": {
+        "minLat": 37.2018,
+        "maxLat": 40.6381,
+        "minLon": -82.6447,
+        "maxLon": -77.719
+      },
+      "features": {
+        "lakes": 143,
+        "rivers": 0,
+        "streams": 2020,
+        "canals": 0
+      },
+      "fileSize": 1568768,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/west-virginia-water.mbtiles",
+      "checksum": "sha256:a955e1ddbdd6213a7791459bb309eb58df5efb6c01a3d1a6775229196d30bf69"
+    },
+    {
+      "id": "maryland-water",
+      "name": "Maryland",
+      "coverage": {
+        "type": "state",
+        "region": "maryland"
+      },
+      "bounds": {
+        "minLat": 37.9117,
+        "maxLat": 39.7229,
+        "minLon": -79.4877,
+        "maxLon": -75.049
+      },
+      "features": {
+        "lakes": 13,
+        "rivers": 0,
+        "streams": 6948,
+        "canals": 0
+      },
+      "fileSize": 2211840,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/maryland-water.mbtiles",
+      "checksum": "sha256:2a82f2075381452d9324c64bf704b1f0d2468b3f7df5ff2004b726750e6ccfc6"
+    },
+    {
+      "id": "delaware-water",
+      "name": "Delaware",
+      "coverage": {
+        "type": "state",
+        "region": "delaware"
+      },
+      "bounds": {
+        "minLat": 38.4511,
+        "maxLat": 39.8394,
+        "minLon": -75.7888,
+        "maxLon": -75.049
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 604,
+        "canals": 0
+      },
+      "fileSize": 335872,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/delaware-water.mbtiles",
+      "checksum": "sha256:3ca5b6dd44ab4a70869f98902ad4f875f7bedcf1caee8113615bcf20e26489e5"
+    },
+    {
+      "id": "pennsylvania-water",
+      "name": "Pennsylvania",
+      "coverage": {
+        "type": "state",
+        "region": "pennsylvania"
+      },
+      "bounds": {
+        "minLat": 39.7198,
+        "maxLat": 42.2694,
+        "minLon": -80.5196,
+        "maxLon": -74.6895
+      },
+      "features": {
+        "lakes": 31,
+        "rivers": 0,
+        "streams": 1301,
+        "canals": 0
+      },
+      "fileSize": 1138688,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/pennsylvania-water.mbtiles",
+      "checksum": "sha256:4d1e201d2d01eaaacb45a82f9ebc8aa3d9f63b336d66026e861a9d8014b3847d"
+    },
+    {
+      "id": "new-jersey-water",
+      "name": "New Jersey",
+      "coverage": {
+        "type": "state",
+        "region": "new jersey"
+      },
+      "bounds": {
+        "minLat": 38.9285,
+        "maxLat": 41.3574,
+        "minLon": -75.5597,
+        "maxLon": -73.8937
+      },
+      "features": {
+        "lakes": 0,
+        "rivers": 0,
+        "streams": 6729,
+        "canals": 0
+      },
+      "fileSize": 1613824,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-jersey-water.mbtiles",
+      "checksum": "sha256:e92f71b746ac4bf0f9bc9d4c05cfc012c772cb6e005e67e5b63d209c3afbae3c"
+    },
+    {
+      "id": "new-york-water",
+      "name": "New York",
+      "coverage": {
+        "type": "state",
+        "region": "new york"
+      },
+      "bounds": {
+        "minLat": 40.4961,
+        "maxLat": 45.0153,
+        "minLon": -79.7624,
+        "maxLon": -71.8563
+      },
+      "features": {
+        "lakes": 82,
+        "rivers": 0,
+        "streams": 202961,
+        "canals": 0
+      },
+      "fileSize": 9703424,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-york-water.mbtiles",
+      "checksum": "sha256:61750c34001fac2ad70fa6a1f038d8b5020879904e26887d2907e05fe52c92d2"
+    },
+    {
+      "id": "vermont-water",
+      "name": "Vermont",
+      "coverage": {
+        "type": "state",
+        "region": "vermont"
+      },
+      "bounds": {
+        "minLat": 42.7269,
+        "maxLat": 45.0167,
+        "minLon": -73.4381,
+        "maxLon": -71.4653
+      },
+      "features": {
+        "lakes": 104,
+        "rivers": 0,
+        "streams": 20181,
+        "canals": 0
+      },
+      "fileSize": 4788224,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/vermont-water.mbtiles",
+      "checksum": "sha256:2b6e8b4ce64db48be117cf449084194528ee6afe90902bcdcd17bdb699be455f"
+    },
+    {
+      "id": "new-hampshire-water",
+      "name": "New Hampshire",
+      "coverage": {
+        "type": "state",
+        "region": "new hampshire"
+      },
+      "bounds": {
+        "minLat": 42.697,
+        "maxLat": 45.3055,
+        "minLon": -72.557,
+        "maxLon": -70.575
+      },
+      "features": {
+        "lakes": 215,
+        "rivers": 0,
+        "streams": 19036,
+        "canals": 0
+      },
+      "fileSize": 6168576,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-hampshire-water.mbtiles",
+      "checksum": "sha256:14411aa247c6dc04fa222e71607d58560b4cb1632115409f9257e76ac68b268a"
+    },
+    {
+      "id": "maine-water",
+      "name": "Maine",
+      "coverage": {
+        "type": "state",
+        "region": "maine"
+      },
+      "bounds": {
+        "minLat": 43.0642,
+        "maxLat": 47.4598,
+        "minLon": -71.0841,
+        "maxLon": -66.9499
+      },
+      "features": {
+        "lakes": 746,
+        "rivers": 0,
+        "streams": 74989,
+        "canals": 0
+      },
+      "fileSize": 14741504,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/maine-water.mbtiles",
+      "checksum": "sha256:77a6b9696e4f2479f20b12f69c4237a3a96d21259050e7f1c8c7711838f246a0"
+    },
+    {
+      "id": "massachusetts-water",
+      "name": "Massachusetts",
+      "coverage": {
+        "type": "state",
+        "region": "massachusetts"
+      },
+      "bounds": {
+        "minLat": 41.2376,
+        "maxLat": 42.8867,
+        "minLon": -73.5081,
+        "maxLon": -69.9286
+      },
+      "features": {
+        "lakes": 46,
+        "rivers": 0,
+        "streams": 5239,
+        "canals": 0
+      },
+      "fileSize": 1212416,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/massachusetts-water.mbtiles",
+      "checksum": "sha256:2cf539d9d4f79aeb270fef3b1f355bd8f812e48427cfd4540fc421efb1807158"
+    },
+    {
+      "id": "rhode-island-water",
+      "name": "Rhode Island",
+      "coverage": {
+        "type": "state",
+        "region": "rhode island"
+      },
+      "bounds": {
+        "minLat": 41.146,
+        "maxLat": 42.0188,
+        "minLon": -71.9074,
+        "maxLon": -71.088
+      },
+      "features": {
+        "lakes": 11,
+        "rivers": 0,
+        "streams": 829,
+        "canals": 0
+      },
+      "fileSize": 315392,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/rhode-island-water.mbtiles",
+      "checksum": "sha256:9b51387e5cec2d798407c8cee896344f7b2a7be85dd25444601e0fcae6ba7f05"
+    },
+    {
+      "id": "connecticut-water",
+      "name": "Connecticut",
+      "coverage": {
+        "type": "state",
+        "region": "connecticut"
+      },
+      "bounds": {
+        "minLat": 40.9509,
+        "maxLat": 42.0508,
+        "minLon": -73.7277,
+        "maxLon": -71.7869
+      },
+      "features": {
+        "lakes": 1,
+        "rivers": 0,
+        "streams": 2550,
+        "canals": 0
+      },
+      "fileSize": 528384,
+      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/connecticut-water.mbtiles",
+      "checksum": "sha256:b609688fdebb57f9ede0d5495f007e8419b885f22930bbddc3b306b4a53244fd"
+    }
+  ]
+}
