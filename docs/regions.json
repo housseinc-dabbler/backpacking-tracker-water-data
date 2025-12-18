@@ -21,7 +21,7 @@
         "canals": 0
       },
       "fileSize": 27893760,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/ontario-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/ontario-water.mbtiles",
       "checksum": "sha256:482a79b5a10f76c02bbcb555a18c6fcc9e203bd5f9acd7a94d88a587bad168bc"
     },
     {
@@ -44,7 +44,7 @@
         "canals": 0
       },
       "fileSize": 21282816,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/british-columbia-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/british-columbia-water.mbtiles",
       "checksum": "sha256:cd1ffa23500d54dc0d6a5876e1527d1daedece5bfaf88d78ade7b33fff89ae53"
     },
     {
@@ -67,7 +67,7 @@
         "canals": 0
       },
       "fileSize": 27545600,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/quebec-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/quebec-water.mbtiles",
       "checksum": "sha256:92c677a6d005cb087ec5acbdf126a970e3d09f9ce832149caabb303a61837dad"
     },
     {
@@ -90,7 +90,7 @@
         "canals": 0
       },
       "fileSize": 25485312,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/alberta-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/alberta-water.mbtiles",
       "checksum": "sha256:893194b3b98d319aa13dbc2bec2e419902e75fa52e8839175da835368a71c39f"
     },
     {
@@ -113,7 +113,7 @@
         "canals": 0
       },
       "fileSize": 18792448,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/manitoba-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/manitoba-water.mbtiles",
       "checksum": "sha256:64568fc10d571031c9962a7b1b16bcf0fc19804ca03aef841d5d0b994aa4482b"
     },
     {
@@ -136,7 +136,7 @@
         "canals": 0
       },
       "fileSize": 21151744,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/saskatchewan-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/saskatchewan-water.mbtiles",
       "checksum": "sha256:e1c1d745857f6188f293fb7c884dd59abb2784fe986c07f8378f589406ee0ec2"
     },
     {
@@ -159,7 +159,7 @@
         "canals": 0
       },
       "fileSize": 9519104,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nova-scotia-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/nova-scotia-water.mbtiles",
       "checksum": "sha256:af8a3cb7a9a7a8b1be343613f127b6796ba3e4a7bf4fa16aa45f1f3328936134"
     },
     {
@@ -182,7 +182,7 @@
         "canals": 0
       },
       "fileSize": 9322496,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-brunswick-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/new-brunswick-water.mbtiles",
       "checksum": "sha256:8902b09c448e82fd49ad5daa25b20c65ee7402657b3d6cab78680857a9765bbd"
     },
     {
@@ -205,7 +205,7 @@
         "canals": 0
       },
       "fileSize": 16134144,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/newfoundland-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/newfoundland-water.mbtiles",
       "checksum": "sha256:13ee95f9f0a2c22f176304805311a0ebb752b9712f0c036fd87f583f4ac265a2"
     },
     {
@@ -228,7 +228,7 @@
         "canals": 0
       },
       "fileSize": 2289664,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/pei-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/pei-water.mbtiles",
       "checksum": "sha256:82722a7fb27718de753dab3eba05effd62dd000c3930ec6b143a2e0a44fb6ef7"
     },
     {
@@ -251,7 +251,7 @@
         "canals": 0
       },
       "fileSize": 22474752,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/yukon-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/yukon-water.mbtiles",
       "checksum": "sha256:9cfe689e593494e6a6acee007c106a42fe0f6f6531f3f77f397465955f909188"
     },
     {
@@ -274,7 +274,7 @@
         "canals": 0
       },
       "fileSize": 26365952,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nwt-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/nwt-water.mbtiles",
       "checksum": "sha256:72086b7a625f2e17771b1d398a2c9d7472abb054f877fe721fe192802c4f9e96"
     },
     {
@@ -297,7 +297,7 @@
         "canals": 0
       },
       "fileSize": 15413248,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nunavut-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/nunavut-water.mbtiles",
       "checksum": "sha256:dbfb6b7215f1e777427f9c858da193c809cfcbc6cd9b4761bf6ae2da38aae8b8"
     },
     {
@@ -320,7 +320,7 @@
         "canals": 0
       },
       "fileSize": 27095040,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/california-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/california-water.mbtiles",
       "checksum": "sha256:f6ccb64288b9661ab72dbd13d2b43d12b7411e39ec8056cfe3a15079c42ad30d"
     },
     {
@@ -343,7 +343,7 @@
         "canals": 0
       },
       "fileSize": 10403840,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/washington-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/washington-water.mbtiles",
       "checksum": "sha256:d8e846cc156e21f589f324697090ec935ee981961c7d669a80702f0219fdb562"
     },
     {
@@ -366,7 +366,7 @@
         "canals": 0
       },
       "fileSize": 4415488,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/oregon-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/oregon-water.mbtiles",
       "checksum": "sha256:1926f1cbe32ec53bdc4422c29d017f43bb3f4461b80e1198980aac7b82c909e5"
     },
     {
@@ -389,7 +389,7 @@
         "canals": 0
       },
       "fileSize": 25628672,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/alaska-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/alaska-water.mbtiles",
       "checksum": "sha256:31b334513a3512903b3956c27978126e6c8e0c77655de26b9f962b16ba566698"
     },
     {
@@ -412,7 +412,7 @@
         "canals": 0
       },
       "fileSize": 13668352,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nevada-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/nevada-water.mbtiles",
       "checksum": "sha256:b845e7212fb818cf3a522f2de511eec7d0649a44bcf36f7a4b92af54cf895e9c"
     },
     {
@@ -435,7 +435,7 @@
         "canals": 0
       },
       "fileSize": 16486400,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/idaho-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/idaho-water.mbtiles",
       "checksum": "sha256:554f509cb13565a41af19cf75411e976d77b97edf2f7987ec946f5d12dfe5ddc"
     },
     {
@@ -458,7 +458,7 @@
         "canals": 0
       },
       "fileSize": 21979136,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/montana-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/montana-water.mbtiles",
       "checksum": "sha256:17a26b205260d73150ba56960d8b6b3cea7b4b1400537daf92a374afa4f469e2"
     },
     {
@@ -481,7 +481,7 @@
         "canals": 0
       },
       "fileSize": 6893568,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/wyoming-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/wyoming-water.mbtiles",
       "checksum": "sha256:f0a666afb816324109172e468c00427a28282658b90df58e7db6f1d56adf4be3"
     },
     {
@@ -504,7 +504,7 @@
         "canals": 0
       },
       "fileSize": 3219456,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/utah-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/utah-water.mbtiles",
       "checksum": "sha256:6302c428c55aeb9a330195d18ec3f2909e37e8c78c24e690f14224459ab9a970"
     },
     {
@@ -527,7 +527,7 @@
         "canals": 0
       },
       "fileSize": 10547200,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/colorado-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/colorado-water.mbtiles",
       "checksum": "sha256:fdf361d3665e61d1c1b9cf71260fc473aee92c5a7bc30b6d7f6eb9b5c9be170c"
     },
     {
@@ -550,7 +550,7 @@
         "canals": 0
       },
       "fileSize": 8200192,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/arizona-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/arizona-water.mbtiles",
       "checksum": "sha256:5200493324056a329ea0c9f6ab9654e8ec4100b8935d5f4679d8683c72ea57f2"
     },
     {
@@ -573,7 +573,7 @@
         "canals": 0
       },
       "fileSize": 10145792,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-mexico-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/new-mexico-water.mbtiles",
       "checksum": "sha256:9c1eb62c1f306df3b804ead057c3adebc4e236839f22c5e0bcefe169210378eb"
     },
     {
@@ -596,7 +596,7 @@
         "canals": 0
       },
       "fileSize": 6250496,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/north-dakota-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/north-dakota-water.mbtiles",
       "checksum": "sha256:a44851c94e98ddd6442c22b39f8050a96c272fc8a7a83b60c4e58f51b5bbdb6e"
     },
     {
@@ -619,7 +619,7 @@
         "canals": 0
       },
       "fileSize": 3178496,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/south-dakota-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/south-dakota-water.mbtiles",
       "checksum": "sha256:54e3c9ff52bbb69f85cd894feacf526c88b6d5629011ab16dd7b5921f17f8274"
     },
     {
@@ -642,7 +642,7 @@
         "canals": 0
       },
       "fileSize": 4255744,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/nebraska-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/nebraska-water.mbtiles",
       "checksum": "sha256:c8c4d7192a7f21161cee0a55110b980dcef254d125247562b208573750cdedbf"
     },
     {
@@ -665,7 +665,7 @@
         "canals": 0
       },
       "fileSize": 1454080,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/kansas-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/kansas-water.mbtiles",
       "checksum": "sha256:31438bc2438b81799927869705950575e9540287695acf00489805b45709fc87"
     },
     {
@@ -688,7 +688,7 @@
         "canals": 0
       },
       "fileSize": 24014848,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/minnesota-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/minnesota-water.mbtiles",
       "checksum": "sha256:a4d9d730389010bcc23db7074dc130b557993b0beaef6b4895ebb5c3df27be8b"
     },
     {
@@ -711,7 +711,7 @@
         "canals": 0
       },
       "fileSize": 5062656,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/wisconsin-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/wisconsin-water.mbtiles",
       "checksum": "sha256:3a2c608cdf26b7ad2181c6c0e4103781b97817d1b27f1af63f395d1469fa373f"
     },
     {
@@ -734,7 +734,7 @@
         "canals": 0
       },
       "fileSize": 4222976,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/iowa-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/iowa-water.mbtiles",
       "checksum": "sha256:91c782f16f255ff936cf39ce54c2ed0b87cf1053fc24e948fd5f5d7b071342a2"
     },
     {
@@ -757,7 +757,7 @@
         "canals": 0
       },
       "fileSize": 4792320,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/missouri-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/missouri-water.mbtiles",
       "checksum": "sha256:611a9493613e19f0808edeb96a66583f038332ac40f4fc8cd1be80f4bd49d94e"
     },
     {
@@ -780,7 +780,7 @@
         "canals": 0
       },
       "fileSize": 19177472,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/michigan-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/michigan-water.mbtiles",
       "checksum": "sha256:6096e4792b1ac5b172847e0a9e8b5e7fe9ccfa56966d90685bd6ec49b4fa1308"
     },
     {
@@ -803,7 +803,7 @@
         "canals": 0
       },
       "fileSize": 4886528,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/illinois-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/illinois-water.mbtiles",
       "checksum": "sha256:4e48bfb20907947d6466ad79cc2cae6959299c9c5d4ed67f51294dd491be2776"
     },
     {
@@ -826,7 +826,7 @@
         "canals": 0
       },
       "fileSize": 2310144,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/indiana-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/indiana-water.mbtiles",
       "checksum": "sha256:ea46118ffcc29f69b263676a2d25a4040fd5ae3450d85f1a3ad8576f3bf109e8"
     },
     {
@@ -849,7 +849,7 @@
         "canals": 0
       },
       "fileSize": 1265664,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/ohio-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/ohio-water.mbtiles",
       "checksum": "sha256:245ba6cdca1eaf98642450bc495c3efef694af0f637dd4427f7017fe86ad5cd3"
     },
     {
@@ -872,7 +872,7 @@
         "canals": 0
       },
       "fileSize": 20733952,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/texas-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/texas-water.mbtiles",
       "checksum": "sha256:751367b343e00c954971273807ab43e1f833c6f540300684e4f808bccfdc8a91"
     },
     {
@@ -895,7 +895,7 @@
         "canals": 0
       },
       "fileSize": 8351744,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/oklahoma-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/oklahoma-water.mbtiles",
       "checksum": "sha256:63d940ff3195adefb58a70d9fc2ba5658306d0307ff583dc310399db718ff7ff"
     },
     {
@@ -918,7 +918,7 @@
         "canals": 0
       },
       "fileSize": 7180288,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/arkansas-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/arkansas-water.mbtiles",
       "checksum": "sha256:80e6bf092687ae132d5fb2753e063485a15ce72d52fa67a40574b1cc62314b7c"
     },
     {
@@ -941,7 +941,7 @@
         "canals": 0
       },
       "fileSize": 6557696,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/louisiana-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/louisiana-water.mbtiles",
       "checksum": "sha256:a56d7980c52000d032ad5f9f6f83b82336fe838fce0c1227282a789fcf364cd5"
     },
     {
@@ -964,7 +964,7 @@
         "canals": 0
       },
       "fileSize": 5095424,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/mississippi-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/mississippi-water.mbtiles",
       "checksum": "sha256:54f159f0c75fc8b54c3b65af36ff7389239f27684629777430214fd0dfcca85b"
     },
     {
@@ -987,7 +987,7 @@
         "canals": 0
       },
       "fileSize": 2138112,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/alabama-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/alabama-water.mbtiles",
       "checksum": "sha256:bafeb27b486d97662e35f89da3ebe808ab86301225090287d557019ae423cdc2"
     },
     {
@@ -1010,7 +1010,7 @@
         "canals": 0
       },
       "fileSize": 4276224,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/tennessee-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/tennessee-water.mbtiles",
       "checksum": "sha256:a9bed60c338dd05ffcf65e5bf88f0fc8c95708e638eabe94313fd48f18c79d04"
     },
     {
@@ -1033,7 +1033,7 @@
         "canals": 0
       },
       "fileSize": 4116480,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/kentucky-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/kentucky-water.mbtiles",
       "checksum": "sha256:19ce56511feb861d70b667983dbca7c043c8b864337488eb41278ed6dab9e9cd"
     },
     {
@@ -1056,7 +1056,7 @@
         "canals": 0
       },
       "fileSize": 5918720,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/florida-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/florida-water.mbtiles",
       "checksum": "sha256:e873396eb9c9d4b7216b0fcac81d7ed8f5942689194d651e6309b3756a801eaa"
     },
     {
@@ -1079,7 +1079,7 @@
         "canals": 0
       },
       "fileSize": 2998272,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/georgia-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/georgia-water.mbtiles",
       "checksum": "sha256:7ddcad5caad11d7d6e30f00d2af42bbb998175f82aa3274aa8cef90a3ce6ba0e"
     },
     {
@@ -1102,7 +1102,7 @@
         "canals": 0
       },
       "fileSize": 2387968,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/south-carolina-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/south-carolina-water.mbtiles",
       "checksum": "sha256:6b7512be51f9b554d38ef12a5e44606399b4cc044e2bbe785647b7f0cfe6e1c0"
     },
     {
@@ -1125,7 +1125,7 @@
         "canals": 0
       },
       "fileSize": 6807552,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/north-carolina-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/north-carolina-water.mbtiles",
       "checksum": "sha256:efdf4d84463101fe921318647aad5aeb43618412a7cb5db586290ab859a33de2"
     },
     {
@@ -1148,7 +1148,7 @@
         "canals": 0
       },
       "fileSize": 4579328,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/virginia-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/virginia-water.mbtiles",
       "checksum": "sha256:f800022d0c285807da22c04f043399b2ffbb410b190a73fd7e23f9a8da08285c"
     },
     {
@@ -1171,7 +1171,7 @@
         "canals": 0
       },
       "fileSize": 1568768,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/west-virginia-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/west-virginia-water.mbtiles",
       "checksum": "sha256:a955e1ddbdd6213a7791459bb309eb58df5efb6c01a3d1a6775229196d30bf69"
     },
     {
@@ -1194,7 +1194,7 @@
         "canals": 0
       },
       "fileSize": 2211840,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/maryland-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/maryland-water.mbtiles",
       "checksum": "sha256:2a82f2075381452d9324c64bf704b1f0d2468b3f7df5ff2004b726750e6ccfc6"
     },
     {
@@ -1217,7 +1217,7 @@
         "canals": 0
       },
       "fileSize": 335872,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/delaware-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/delaware-water.mbtiles",
       "checksum": "sha256:3ca5b6dd44ab4a70869f98902ad4f875f7bedcf1caee8113615bcf20e26489e5"
     },
     {
@@ -1240,7 +1240,7 @@
         "canals": 0
       },
       "fileSize": 1138688,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/pennsylvania-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/pennsylvania-water.mbtiles",
       "checksum": "sha256:4d1e201d2d01eaaacb45a82f9ebc8aa3d9f63b336d66026e861a9d8014b3847d"
     },
     {
@@ -1263,7 +1263,7 @@
         "canals": 0
       },
       "fileSize": 1613824,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-jersey-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/new-jersey-water.mbtiles",
       "checksum": "sha256:e92f71b746ac4bf0f9bc9d4c05cfc012c772cb6e005e67e5b63d209c3afbae3c"
     },
     {
@@ -1286,7 +1286,7 @@
         "canals": 0
       },
       "fileSize": 9703424,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-york-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/new-york-water.mbtiles",
       "checksum": "sha256:61750c34001fac2ad70fa6a1f038d8b5020879904e26887d2907e05fe52c92d2"
     },
     {
@@ -1309,7 +1309,7 @@
         "canals": 0
       },
       "fileSize": 4788224,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/vermont-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/vermont-water.mbtiles",
       "checksum": "sha256:2b6e8b4ce64db48be117cf449084194528ee6afe90902bcdcd17bdb699be455f"
     },
     {
@@ -1332,7 +1332,7 @@
         "canals": 0
       },
       "fileSize": 6168576,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/new-hampshire-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/new-hampshire-water.mbtiles",
       "checksum": "sha256:14411aa247c6dc04fa222e71607d58560b4cb1632115409f9257e76ac68b268a"
     },
     {
@@ -1355,7 +1355,7 @@
         "canals": 0
       },
       "fileSize": 14741504,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/maine-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/maine-water.mbtiles",
       "checksum": "sha256:77a6b9696e4f2479f20b12f69c4237a3a96d21259050e7f1c8c7711838f246a0"
     },
     {
@@ -1378,7 +1378,7 @@
         "canals": 0
       },
       "fileSize": 1212416,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/massachusetts-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/massachusetts-water.mbtiles",
       "checksum": "sha256:2cf539d9d4f79aeb270fef3b1f355bd8f812e48427cfd4540fc421efb1807158"
     },
     {
@@ -1401,7 +1401,7 @@
         "canals": 0
       },
       "fileSize": 315392,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/rhode-island-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/rhode-island-water.mbtiles",
       "checksum": "sha256:9b51387e5cec2d798407c8cee896344f7b2a7be85dd25444601e0fcae6ba7f05"
     },
     {
@@ -1424,7 +1424,7 @@
         "canals": 0
       },
       "fileSize": 528384,
-      "downloadUrl": "https://github.com/YOUR_USERNAME/backpacking-tracker-water-data/releases/download/v1.0/connecticut-water.mbtiles",
+      "downloadUrl": "https://github.com/housseinc-dabbler/backpacking-tracker-water-data/releases/download/v1.0/connecticut-water.mbtiles",
       "checksum": "sha256:b609688fdebb57f9ede0d5495f007e8419b885f22930bbddc3b306b4a53244fd"
     }
   ]
